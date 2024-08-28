@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['Scode\\main_code.py', 'Scode\\cleanup.py', 'Scode\\setup_datapixx.py', 'Scode\\setup_datapixx2.py', 'Scode\\initialise_trigger_port.py', 'Scode\\send_opm_trigger.py', 'Scode\\send_trigger2.py', 'Scode\\display_fixation_dot.py', 'Scode\\display_visual_stim.py', 'Scode\\draw_myText.py', 'Scode\\fix_dot_properties.py', 'Scode\\initialise_exp_variables.py', 'Scode\\initialise_eyelink.py', 'Scode\\initialise_screen_variables1.py', 'Scode\\initialise_stim_variables.py', 'Scode\\introduce_triggers.py', 'Scode\\KbQueue_start_routine.py', 'Scode\\make_texture_images.py', 'Scode\\ms2sec.py', 'Scode\\pix2angle.py', 'Scode\\prompt_input.py', 'Scode\\read_visual_stim.py', 'Scode\\response_collector.py', 'Scode\\send_trigger.py', 'Scode\\calculate_show_feedback.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
